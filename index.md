@@ -19,8 +19,8 @@ Syntax highlighted code block
 - It's a useful class
 - Class is funny
 
-1. Numbered
-2. List
+1. Homework 0
+2. Homework 1
 
 **Bold** and _Italic_ and `Code` text
 
